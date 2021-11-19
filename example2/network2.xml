@@ -1,0 +1,6 @@
+<network>
+  <name>network2</name>
+  <forward mode="bridge">
+    <interface dev="enp4s0"/>
+  </forward>
+</network>
